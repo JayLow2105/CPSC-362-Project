@@ -40,23 +40,23 @@
       { id: 1, name: 'Milo', breed: 'Beagle', age: '2 years', emoji: '🐶' },
       { id: 2, name: 'Roxy', breed: 'Pug', age: '3 years', emoji: '🐶' },
       { id: 3, name: 'Zeus', breed: 'Labrador', age: '1 year', emoji: '🐶' },
-      { id: 4, name: 'Suki', breed: 'Beagle', age: '2 years', emoji: '🐶' },
-      { id: 5, name: 'Daisy', breed: 'Pug', age: '3 years', emoji: '🐶' },
-      { id: 6, name: 'Lucy', breed: 'Labrador', age: '1 year', emoji: '🐶' },
-      { id: 7, name: 'Max', breed: 'Beagle', age: '2 years', emoji: '🐶' },
-      { id: 8, name: 'Min', breed: 'Pug', age: '3 years', emoji: '🐶' },
-      { id: 9, name: 'Cooper', breed: 'Labrador', age: '1 year', emoji: '🐶' }
+      { id: 4, name: 'Suki', breed: 'Golden Retriever', age: '2 years', emoji: '🐶' },
+      { id: 5, name: 'Daisy', breed: 'German Shepherd', age: '3 years', emoji: '🐶' },
+      { id: 6, name: 'Lucy', breed: 'Siberian Husky', age: '1 year', emoji: '🐶' },
+      { id: 7, name: 'Max', breed: 'Chihuahua', age: '2 years', emoji: '🐶' },
+      { id: 8, name: 'Min', breed: 'Dachshund', age: '3 years', emoji: '🐶' },
+      { id: 9, name: 'Cooper', breed: 'Yorkshire Terrier', age: '1 year', emoji: '🐶' }
 
     ],
     cats: [
       { id: 11, name: 'Luna', breed: 'Siamese', age: '1 year', emoji: '🐱' },
       { id: 12, name: 'Simba', breed: 'Maine Coon', age: '4 years', emoji: '🐱' },
       { id: 13, name: 'Nala', breed: 'Domestic Shorthair', age: '6 months', emoji: '🐱' },
-      { id: 14, name: 'Milo', breed: 'Siamese', age: '1 year', emoji: '🐱' },
+      { id: 14, name: 'Milo', breed: 'Persian', age: '1 year', emoji: '🐱' },
       { id: 15, name: 'Oliver', breed: 'Maine Coon', age: '4 years', emoji: '🐱' },
       { id: 16, name: 'Leo', breed: 'Domestic Shorthair', age: '6 months', emoji: '🐱' },
       { id: 17, name: 'Lily', breed: 'Siamese', age: '1 year', emoji: '🐱' },
-      { id: 18, name: 'Bella', breed: 'Maine Coon', age: '4 years', emoji: '🐱' },
+      { id: 18, name: 'Bella', breed: 'MainAmerican Shorthaire Coon', age: '4 years', emoji: '🐱' },
       { id: 19, name: 'Cutie', breed: 'Domestic Shorthair', age: '6 months', emoji: '🐱' }
     ],
     rabbits: [
